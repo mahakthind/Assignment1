@@ -1,0 +1,58 @@
+/* Mahakdeep kaur  8923181 */
+
+body {
+    width: 80%;
+    max-width: 1200px;
+    font: 16px Arial, sans-serif;
+    padding: 20px;
+}
+header, footer {
+    border: 2px solid #011c25;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0;
+    clear:both;
+}
+h1{
+    color: #7460a9;
+    font-variant: small-caps;
+}
+h2 {
+    color: #194dda;
+    font-variant: small-caps;
+}
+main {
+    width: 64.5%;
+    float: left;
+}
+aside {
+    width: 34.5%;
+    float: left;
+}
+.mainimg img {
+    border: 2px solid #abd8e0;
+}
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+q {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.5em;
+}
+ul {
+    list-style: none;
+    line-height: 2.5em;
+}
+ul > li > a {
+    text-decoration: none;
+    color: #704d75;
+}
+ul > li > a:hover {
+    color: #219223;
+}
+p{
+    text-align: justify;
+} 
+
